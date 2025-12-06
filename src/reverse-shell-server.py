@@ -1,18 +1,19 @@
 from socket import *
 
-# ASCII Art for Samuel
-samuel_ascii = """
-   .-""-.
-  /      \\
- |        |
-  \\      /
-   '-..-'
-    |  |
-   /    \\
-  |      |
-   \\    /
-    '----'
-     Samuel
+# ASCII Art for Love
+love_ascii = """
+   /\\   /\\
+  /  \\ /  \\
+ /    X    \\
+/           \\
+\\           /
+ \\         /
+  \\       /
+   \\     /
+    \\   /
+     \\ /
+      V
+     Love
 """
 
 print(love_ascii)
