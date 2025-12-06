@@ -15,7 +15,7 @@ samuel_ascii = """
      Samuel
 """
 
-print(samuel_ascii)
+print(love_ascii)
 print('Server listening and awaiting instructions')
 
 serverPort = 8000
